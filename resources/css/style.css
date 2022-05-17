@@ -1,0 +1,67 @@
+/*COLORS*/
+
+.bg-black{
+    background-color: black;
+}
+
+.bg-purple{
+    background-color: purple;
+}
+
+.bg-red{
+    background-color: red;
+}
+.bg-green{
+    background-color: green;
+}
+.bg-blue{
+    background-color: blue;
+}
+.text-red{
+ color: red;
+}
+.text-green{
+    color: green;
+}
+.text-blue{
+    color: blue;
+}
+.text-purple{
+    color: purple;
+}
+.text-white{
+    color: white;
+}
+
+/*Flex*/
+
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.align-center{
+    justify-content: center;
+    text-align: center;
+}
+
+.gap-30{
+    gap: 30px;
+}
+
+/*padding*/
+
+.p-5{
+    padding: 5px;
+}
+
+.p-30{
+    padding: 30px;
+}
+
+.space-bet{
+    justify-content: space-around;
+}
